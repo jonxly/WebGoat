@@ -210,3 +210,5 @@ To be able to see which labels are loaded through a property file, open a new br
 Switch back to the main WebGoat broswer tab and __reload the main WebGoat browser tab__.
 
 After the reload is complete, all labels which where loaded from a property file will be __marked green__.
+
+J was here!
